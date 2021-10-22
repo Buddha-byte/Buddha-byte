@@ -4,4 +4,4 @@
 
 ![](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/linux-everywhere.jpg)
 
-#### Here you can find usefull stuff about *Linux*, *Pytnon*, *JavaScript*, *Rust* and etc. ⌨️ 💻
+#### Computer science enthusiastic ⌨️ 💻
