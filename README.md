@@ -5,3 +5,10 @@
 ![](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/linux-everywhere.jpg)
 
 #### Computer science enthusiastic ⌨️ 💻
+
+*One love in one word*:
+- Pyhton
+- Bash
+- Linux
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddha-byte&show_icons=true)
